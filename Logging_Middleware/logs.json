@@ -1,0 +1,18 @@
+[
+  {
+    "stack": "Short.js:handleShorten",
+    "level": "info",
+    "package": "url-shortener",
+    "message": "Successfully shortened URLs",
+    "timestamp": "2025-08-01T06:27:02.043Z",
+    "receivedAt": "2025-08-01T06:27:02.073Z"
+  },
+  {
+    "stack": "Short.js:handleShorten",
+    "level": "info",
+    "package": "url-shortener",
+    "message": "Successfully shortened URLs",
+    "timestamp": "2025-08-01T06:27:46.137Z",
+    "receivedAt": "2025-08-01T06:27:46.147Z"
+  }
+]
